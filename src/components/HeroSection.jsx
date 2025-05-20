@@ -24,7 +24,7 @@ function HeroSection() {
           </p>
           <div className=" pt-4 opacity-0 animate-fade-in-delay-4">
             <a
-              href="#project
+              href="#projects
             "
               className="cosmic-button"
             >
