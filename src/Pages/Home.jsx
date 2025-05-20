@@ -5,7 +5,7 @@ import Aboutme from "../components/Aboutme";
 import SkillsSection from "../components/SkillsSection";
 import Project from "../components/Project";
 import Contact from "../components/Contact";
-import Footer from "../components/Footer";
+import Footersection from "../components/Footersection";
 
 function Home() {
   return (
@@ -20,7 +20,7 @@ function Home() {
         <Contact />
       </main>
       {/* Footer */}
-      <Footer />
+      <Footersection/>
     </div>
   );
 }

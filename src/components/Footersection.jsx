@@ -1,6 +1,6 @@
 import { ArrowUp } from "lucide-react";
 
-function Footer() {
+function Footersection() {
   return (
     <>
       <div className="flex justify-center -mb-6 relative z-10">
@@ -20,4 +20,4 @@ function Footer() {
   );
 }
 
-export default Footer;
+export default Footersection;
